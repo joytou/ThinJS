@@ -1,0 +1,14 @@
+{
+    "name": "ThinJS",
+    "version": "1.0.0",
+    "main": "src/main.js",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Joytou joytou.wu@qq.com",
+    "contributors": [
+        {
+            "name": "MDN",
+            "url": "https://developer.mozilla.org/"
+        }
+    ],
+    "dependencies": {}
+}
