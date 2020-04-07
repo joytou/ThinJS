@@ -1,7 +1,10 @@
 {
     "name": "ThinJS",
     "version": "1.0.0",
-    "main": "src/main.js",
+    "main": [
+        "src/thinjs.js",
+        "src/thinjs.min.js"
+    ],
     "keywords": [
         "util",
         "functional",
@@ -9,7 +12,7 @@
         "client",
         "browser"
     ],
-    "author": "Joytou joytou.wu@qq.com",
+    "author": "Joytou 1540294142@qq.com",
     "contributors": [
         {
             "name": "MDN",
