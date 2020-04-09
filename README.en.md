@@ -26,9 +26,9 @@ An extreme, fast and simple responsive JavaScript development framework.
 
 #### Installation
 
-1[1].  Download the development version [thinjs.js](https://gitee.com/joytouwu/ThinJS/blob/master/src/thinjs.js) or compressed version [thinjs.min.js](https://gitee.com/joytouwu/ThinJS/blob/master/src/thinjs.min.js) file;
+1[1].  Download the development version [thinjs.js](https://github.com/joytou/ThinJS/blob/master/src/thinjs.js) or compressed version [thinjs.min.js](https://gitee.com/joytouwu/ThinJS/blob/master/src/thinjs.min.js) file;
 
-1[2].  Use git clone this depository: `git clone https://gitee.com/joytouwu/ThinJS.git`；
+1[2].  Use git clone this depository: `git clone https://github.com/joytou/ThinJS.git`；
 
 2[1].  Use script tags to import _thinjs.js_ or _thinjs.min.js_ files;
 
@@ -37,7 +37,7 @@ An extreme, fast and simple responsive JavaScript development framework.
 
 #### Instructions
 
-For details, please refer to the usage method in [project home page] (http://joytouwu.gite.io/thinjs)!
+For details, please refer to the usage method in [project home page](http://joytouwu.gitee.io/thinjs/)!
 
 
 #### Contribution
