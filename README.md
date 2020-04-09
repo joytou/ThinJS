@@ -26,9 +26,9 @@ README: [English](README.en.md) | [中文](README.md)
 
 #### 安装教程
 
-1[1].  下载开发版本 [thinjs.js](https://gitee.com/joytouwu/ThinJS/blob/master/src/thinjs.js) 或 压缩版本 [thinjs.min.js](https://gitee.com/joytouwu/ThinJS/blob/master/src/thinjs.min.js) 文件；
+1[1].  下载开发版本 [thinjs.js](https://github.com/joytou/ThinJS/blob/master/src/thinjs.js) 或 压缩版本 [thinjs.min.js](https://github.com/joytou/ThinJS/blob/master/src/thinjs.min.js) 文件；
 
-1[2].  使用git clone此仓库：`git clone https://gitee.com/joytouwu/ThinJS.git`；
+1[2].  使用git clone此仓库：`git clone https://github.com/joytou/ThinJS.git`；
 
 2[1].  使用script标签引入 _thinjs.js_ 或 _thinjs.min.js_ 文件；
 
